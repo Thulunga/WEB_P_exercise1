@@ -12,4 +12,5 @@ respective course. Each course must also contain the links of recorded sessions 
 files. Categorise the recorded sessions based on duration, the number of hours the lecture is
 delivered by giving the options of checkbox. On the click of the video duration, the recorded
 session should be displayed.
-4. In the footer section of the webcoursera, provide the i
+4. In the footer section of the webcoursera, provide the information for Terms, Privacy policy, Help
+and support, About us and Contact us. 
